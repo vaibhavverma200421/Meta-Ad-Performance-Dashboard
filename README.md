@@ -4,13 +4,13 @@ This is a **Meta Ad Performance Dashboard** built in Power BI that tracks the ef
 
 # 📊 Meta Ad Performance Dashboard (Facebook & Instagram)
 
-![Meta Ad Performance Dashboard](Meta_dashboard.png)
+![Meta Ad Performance Dashboard](Meta%20dashboard.png)
 
 ---
 
 ## 🗂️ Data Model
 
-![Data Model](Data_Modelling.png)
+![Data Model](Data%20Modelling.png)
 
 ---
 
